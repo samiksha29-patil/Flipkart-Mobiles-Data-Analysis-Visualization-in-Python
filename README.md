@@ -31,6 +31,29 @@ The dataset used is: **`flipkart_mobiles.csv`**
 | MRP            | Maximum Retail Price |
 | Discount       | Discount percentage offered |
 
+---
+
+
+## 📊 Visualizations
+
+[![flipkart1](https://github.com/samiksha29-patil/Flipkart-Mobiles-Data-Analysis-Visualization-in-Python/blob/main/flipkart1.png)](https://github.com/samiksha29-patil/Flipkart-Mobiles-Data-Analysis-Visualization-in-Python/blob/main/flipkart1.png)  
+
+---
+
+[![flipkart2](https://github.com/samiksha29-patil/Flipkart-Mobiles-Data-Analysis-Visualization-in-Python/blob/main/flipkart2.png)](https://github.com/samiksha29-patil/Flipkart-Mobiles-Data-Analysis-Visualization-in-Python/blob/main/flipkart2.png)  
+
+---
+
+[![flipkart3](https://github.com/samiksha29-patil/Flipkart-Mobiles-Data-Analysis-Visualization-in-Python/blob/main/flipkart3.png)](https://github.com/samiksha29-patil/Flipkart-Mobiles-Data-Analysis-Visualization-in-Python/blob/main/flipkart3.png)  
+
+---
+
+[![flipkart5](https://github.com/samiksha29-patil/Flipkart-Mobiles-Data-Analysis-Visualization-in-Python/blob/main/flipkart5.png)](https://github.com/samiksha29-patil/Flipkart-Mobiles-Data-Analysis-Visualization-in-Python/blob/main/flipkart5.png)  
+
+
+---
+
+
 ## 📊 Key Visualizations & Insights  
 - **Brand-wise Sales Analysis** → Popular mobile brands  
 - **Ratings Distribution** → Most phones have ratings above 4.0  
